@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-animaciones.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Animación y gráficos en movimiento | Lynx Pardelle",
+    "description": "Pon en movimiento una canción, una idea o un mensaje. La animación puede dar vida a personajes, explicar información visual o aportar gráficos a un video.",
+    "canonical": "https://servicio-animaciones.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-audiovisual.webp"
+    }
+  }
+}
