@@ -7,12 +7,56 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Animación y gráficos en movimiento | Lynx Pardelle",
-    "description": "Pon en movimiento una canción, una idea o un mensaje. La animación puede dar vida a personajes, explicar información visual o aportar gráficos a un video.",
+    "title": "Animación y motion graphics para música y publicidad | Lynx Pardelle",
+    "description": "Consulta animación de personajes, infografías, cortinillas y rótulos. Define qué aporta el movimiento a tu pieza musical, publicitaria o editorial.",
     "canonical": "https://servicio-animaciones.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-animaciones-r2-2599bf72c5320e3b.webp",
+      "title": "Animación y motion graphics para música y publicidad | Lynx Pardelle",
+      "description": "Consulta animación de personajes, infografías, cortinillas y rótulos. Define qué aporta el movimiento a tu pieza musical, publicitaria o editorial.",
+      "url": "https://servicio-animaciones.music.lynxpardelle.com/",
+      "imageAlt": "Mesa de animación con tableta y referencias de movimiento."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Animación y motion graphics para música y publicidad | Lynx Pardelle",
+      "description": "Consulta animación de personajes, infografías, cortinillas y rótulos. Define qué aporta el movimiento a tu pieza musical, publicitaria o editorial.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-animaciones-r2-2599bf72c5320e3b.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://servicio-animaciones.music.lynxpardelle.com/#webpage",
+        "name": "Animación y gráficos en movimiento",
+        "description": "Consulta animación de personajes, infografías, cortinillas y rótulos. Define qué aporta el movimiento a tu pieza musical, publicitaria o editorial.",
+        "url": "https://servicio-animaciones.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Servicios",
+          "url": "https://music.lynxpardelle.com/servicios"
+        },
+        "mainEntity": {
+          "@id": "https://servicio-animaciones.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://servicio-animaciones.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Animación y gráficos en movimiento",
+        "description": "Consulta animación de personajes, infografías, cortinillas y rótulos. Define qué aporta el movimiento a tu pieza musical, publicitaria o editorial.",
+        "url": "https://servicio-animaciones.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-animaciones-r2-2599bf72c5320e3b.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "serviceType": "Animación y gráficos en movimiento"
+      }
+    ]
   }
 }
