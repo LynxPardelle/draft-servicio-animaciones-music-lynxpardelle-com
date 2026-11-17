@@ -911,7 +911,8 @@
           "display": "inline-flex",
           "alignItems": "center",
           "fontWeight": "640"
-        }
+        },
+        "rel": "noopener noreferrer"
       }
     },
     {
@@ -1193,7 +1194,8 @@
           "display": "inline-flex",
           "alignItems": "center",
           "fontWeight": "640"
-        }
+        },
+        "rel": "noopener noreferrer"
       }
     }
   ]
