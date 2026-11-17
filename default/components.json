@@ -276,7 +276,7 @@
       "type": "text",
       "config": {
         "id": "outcome-title",
-        "text": "Objetivo del trabajo",
+        "text": "¿Qué formatos puedes plantear para una pieza animada?",
         "tag": "h2",
         "styles": {
           "margin": "0",
@@ -294,7 +294,7 @@
       "type": "text",
       "config": {
         "id": "outcome-copy",
-        "text": "Una propuesta de movimiento que refuerce lo que se cuenta y se integre al lenguaje visual del proyecto.",
+        "text": "Según lo que quieras presentar o explicar, puedes plantear animación de personajes, infografías, cortinillas, rótulos o gráficos en movimiento.",
         "tag": "p",
         "styles": {
           "margin": "0",
@@ -921,7 +921,8 @@
         "tag": "section",
         "components": [
           "offer-contact",
-          "return-link"
+          "return-link",
+          "portfolio-reference"
         ],
         "styles": {
           "boxSizing": "border-box",
@@ -1176,6 +1177,22 @@
           "fontFamily": "\"Instrument Sans\", system-ui, sans-serif",
           "lineHeight": "1.6",
           "minHeight": "100vh"
+        }
+      }
+    },
+    {
+      "id": "portfolio-reference",
+      "type": "link",
+      "config": {
+        "text": "Ver proyectos audiovisuales de Lynx Pardelle",
+        "href": "https://lynxpardelle.com/reel",
+        "styles": {
+          "color": "#f6c17d",
+          "textUnderlineOffset": "4px",
+          "minHeight": "44px",
+          "display": "inline-flex",
+          "alignItems": "center",
+          "fontWeight": "640"
         }
       }
     }
